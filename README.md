@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hello everyone
 
-<!--
-**guilherme4g/guilherme4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🗣️ About me 
 
-Here are some ideas to get you started:
+## 🕵🏿 Where you can find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/joseguilhermenvs/"> 
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseguilhermenvs/"> 
+</a>
+<a href="https://www.instagram.com/joseguilhermenvs/?hl=pt-br"> 
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"> 
+</a> 
+<a href="https://medium.com/@jgnvs6"> 
+  <img src="https://img.shields.io/badge/-Medium-6633cc?style=for-the-badge&color=black&link=https://medium.com/@jgnvs6"> 
+</a> 
