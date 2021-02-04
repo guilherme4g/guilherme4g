@@ -1,6 +1,15 @@
 ## 👋 Hello everyone
 
+Prazer em te ver aqui !!
+
 ## 🗣️ About me 
+
+
+## 🛰️ Status
+![github stats](https://github-readme-stats.vercel.app/api?username=guilherme4g&show_icons=true&theme=radical&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme4g&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🕵🏿 Where you can find me
 
