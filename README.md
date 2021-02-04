@@ -11,5 +11,5 @@
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"> 
 </a> 
 <a href="https://medium.com/@jgnvs6"> 
-  <img src="https://img.shields.io/badge/-Medium-6633cc?style=for-the-badge&color=black&link=https://medium.com/@jgnvs6"> 
+  <img src="https://img.shields.io/badge/-Medium-6633cc?style=flat-square&color=black&link=https://medium.com/@jgnvs6"> 
 </a> 
