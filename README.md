@@ -4,7 +4,7 @@
   <li> 🎓 Graduando em Ciência da Computação | UFPE </li>
   <li> 💼 Estagiário em Engenharia de Software no | CIn-UFPE </li>
   <li>📍 PE - Brasil. </li>
-  <li> 📚 Atualmente tenho focado em qualificar minhas habilidades de construção de software assegurando comportamento adequado, baixo acoplamento, fácil reuso e legibilidade de código. Atualmente tenho trabalhado muito com as liguagens C# e Javascript/Typescript.  </li>
+  <li> 📚 Atualmente tenho focado em qualificar minhas habilidades de construção de software assegurando comportamento adequado, baixo acoplamento, fácil reuso e legibilidade de código. E tenho me especializado na linguagem Javascript/Typescript.  </li>
 </ul>
 
 ## 🛰️ Status
