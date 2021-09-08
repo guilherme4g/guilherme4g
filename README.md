@@ -2,7 +2,7 @@
 <br>
 <ul>
   <li> 🎓 Graduando em Ciência da Computação | UFPE </li>
-  <li> 💼 Desenvolvedor de Software | DSPLAY </li>
+  <li> 💼 Engenheiro de Software | Loomi </li>
   <li>📍 PE - Brasil. </li>
   <li> 📚 Atualmente tenho focado em qualificar minhas habilidades de construção de software assegurando comportamento adequado, baixo acoplamento, fácil reuso e legibilidade de código. E tenho me especializado na linguagem Javascript/Typescript.  </li>
 </ul>
